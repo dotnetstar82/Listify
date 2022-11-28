@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListifyCore", "ListifyCore\ListifyCore.csproj", "{6632C83A-2C0E-4B2B-B2E6-B7DEBF89699A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6632C83A-2C0E-4B2B-B2E6-B7DEBF89699A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6632C83A-2C0E-4B2B-B2E6-B7DEBF89699A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6632C83A-2C0E-4B2B-B2E6-B7DEBF89699A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6632C83A-2C0E-4B2B-B2E6-B7DEBF89699A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {585D0411-B7F0-4ABA-8C47-C4F7131BA1EB}
+	EndGlobalSection
+EndGlobal
